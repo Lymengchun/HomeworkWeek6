@@ -1,0 +1,96 @@
+.ImgFB{
+    background-color:#405b93 ;
+    text-align: center;
+    padding: 20px;
+    
+    font-size: 30px;
+    color: white;
+}
+.FB i{
+    color: #3c5d9c;
+}
+.FbLS{
+    color: #3c5d9c;
+}
+.FbB{
+    font-weight: bold;
+}
+
+
+.card-body{
+    
+    text-align: center;
+    
+}
+
+
+
+.col:first-child{
+   border-right: 1.5px solid #eeeeee   ;
+}
+
+.card-body{
+  padding: 5px;
+}
+
+
+
+.ImgGG{
+    background-color:#ce5542 ;
+    text-align: center;
+    padding: 20px;
+    
+    font-size: 30px;
+    color: white;
+}
+.GG i{
+    color: #ce5542;
+}
+.GgLS{
+    color:#ce5542;
+}
+.GgB{
+    font-weight: bold;
+}
+
+
+.ImgTW{
+    background-color:#47a2eb ;
+    text-align: center;
+    padding: 20px;
+    
+    font-size: 30px;
+    color: white;
+}
+.TW i{
+    color: #47a2eb;
+}
+.TwLS{
+    color:#47a2eb;
+}
+.TwB{
+    font-weight: bold;
+}
+
+
+.ImgPIN{
+    background-color:#ad2525 ;
+    text-align: center;
+    padding: 20px;
+    
+    font-size: 30px;
+    color: white;
+}
+.PIN i{
+    color: #ad2525;
+}
+.PinLS{
+    color:#ad2525;
+}
+.PinB{
+    font-weight: bold;
+}
+
+body{
+    margin: 10px;
+}
